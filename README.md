@@ -136,7 +136,6 @@ Customers are classified as **High Risk** if:
 ## 📁 Project Structure
 
 📦 SaaS-Revenue-Churn-Analysis
-┣ 📊 Dashboard.xlsx
 ┣ 📄 README.md
 ┣ 📂 SQL
 ┃ ┗ churn_analysis.sql
