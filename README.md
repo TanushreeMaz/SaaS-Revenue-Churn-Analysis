@@ -166,6 +166,8 @@ Feel free to ⭐ the repository or connect with me!
 
 
 LINKEDIN: https://www.linkedin.com/feed/update/urn:li:ugcPost:7450631429480394753/
+
+
 ANALYST BUILDER: https://www.analystbuilder.com/projects/saas-revenue-churn-analysis-UPoYs?tab=submission
 
 
