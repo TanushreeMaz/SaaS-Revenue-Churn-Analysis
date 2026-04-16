@@ -131,7 +131,8 @@ Approximately 47.83% of active customers fall into this category, indicating a s
 
 ## 📸 Dashboard Preview
 
-<img width="1905" height="821" alt="image" src="https://github.com/user-attachments/assets/b071cb1d-c62d-44d4-acf2-1b384df65fd2" />
+<img width="1897" height="822" alt="image" src="https://github.com/user-attachments/assets/b53a387a-e2f1-420f-8466-7a307cbe0ad5" />
+
 
 
 ## 📁 Project Structure
@@ -164,7 +165,8 @@ While the company shows strong revenue growth, high churn remains a major concer
 Feel free to ⭐ the repository or connect with me!
 
 
-
+LINKEDIN: https://www.linkedin.com/feed/update/urn:li:ugcPost:7450631429480394753/
+ANALYST BUILDER: https://www.analystbuilder.com/projects/saas-revenue-churn-analysis-UPoYs?tab=submission
 
 
 
