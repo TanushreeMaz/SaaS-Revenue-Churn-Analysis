@@ -60,43 +60,44 @@ The project uses two datasets:
 ## 🔑 Key Insights
 
 
-### 🔴 High Churn Rate
-- Overall churn rate: **~52%**
-- Indicates significant retention challenges
+🔴 High Churn Rate
+• Overall churn rate is ~52%, indicating significant retention challenges
+• Churn remains a critical risk despite growing customer base
+
+
+📉 Churn Concentration
+→ Churn is highest among:
+• Lower-tier plans (Starter / Professional)
+• Smaller company segments
+→ Suggests weaker product fit or lower engagement in these segments
+
+
+💳 Billing Cycle Impact
+• Annual subscriptions demonstrate stronger retention
+• Monthly customers show higher churn, indicating short-term commitment risk
+
+
+📊 Usage Drives Retention
+• Customers with low feature usage (<30%) are significantly more likely to churn
+• High engagement strongly correlates with customer retention
+
+
+😊 Customer Sentiment Matters
+• Detractors (low NPS) exhibit the highest churn rates
+• Promoters are far more likely to remain active
+
+
+📈 Revenue Growth vs Risk
+• MRR shows consistent upward growth
+• However, high churn undermines long-term revenue stability and expansion potential
 
 
 
-### 📉 Churn Concentration
-- Higher churn observed in:
-  - Lower-tier plans  
-  - Smaller company sizes  
-
-
-
-### 💳 Billing Cycle Impact
-- Annual subscriptions show better retention  
-- Monthly customers are more likely to churn  
-
-
-
-### 📊 Usage Drives Retention
-- Low feature usage strongly correlates with churn  
-- High usage customers are more stable  
-
-
-### 📈 Revenue Growth vs Risk
-- MRR shows steady growth  
-- However, high churn threatens long-term sustainability
-
-
-
-## ⚠️ At-Risk Customer Definition
-
-Customers are classified as **High Risk** if:
-
-- Feature usage < 30%  
-- OR NPS score ≤ 6  
-
+⚠️ At-Risk Customer Definition
+Customers are classified as At-Risk if:
+• Feature usage < 30%
+• OR NPS score ≤ 6
+Approximately 47.83% of active customers fall into this category, indicating a significant opportunity for proactive retention strategies
 
 
 ## 💡 Business Recommendations
